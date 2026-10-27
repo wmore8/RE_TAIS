@@ -209,7 +209,13 @@ RE_TAIS/
 | R.12 | De aventura por el Amazonas | [PDF](Examenes_y_Repaso/R.12%20De%20aventura%20por%20el%20Amazonas/prob-De%20aventura%20por%20el%20Amazonas.pdf) | [R_12.cpp](Examenes_y_Repaso/R.12%20De%20aventura%20por%20el%20Amazonas/R_12.cpp) | $O(N^3)$ | `CORRECT` |
 | R.13 | Inserción de paréntesis | [PDF](Examenes_y_Repaso/R.13%20Insercion%20de%20parentesis/prob-Inserci%C3%B3n%20de%20par%C3%A9ntesis.pdf) | [R_13.cpp](Examenes_y_Repaso/R.13%20Insercion%20de%20parentesis/R_13.cpp) | $O(N^3)$ | `CORRECT` |
 | R.14 | El turrón a la puerta | [PDF](Examenes_y_Repaso/R.14%20El%20turron%20a%20la%20puerta/prob-El%20turr%C3%B3n%20a%20la%20puerta.pdf) | [R_14.cpp](Examenes_y_Repaso/R.14%20El%20turron%20a%20la%20puerta/R_14.cpp) | $O(N^2)$ | `CORRECT` |
+| R.15 | Alineamiento de secuencias | [PDF](Examenes_y_Repaso/R.15%20Alineamiento%20de%20secuencias/prob-Alineamiento%20de%20secuencias.pdf) | [R_15.cpp](Examenes_y_Repaso/R.15%20Alineamiento%20de%20secuencias/R_15.cpp) | — | — |
 | R.16 | Bizcocho con frutas | [PDF](Examenes_y_Repaso/R.16%20Bizcocho%20con%20frutas/prob-Bizcocho%20con%20frutas.pdf) | [R_16.cpp](Examenes_y_Repaso/R.16%20Bizcocho%20con%20frutas/R_16.cpp) | $O(N^2)$ | `CORRECT` |
+| R.17 | Oferta 3x2 | [PDF](Examenes_y_Repaso/R.17%20Oferta%203x2/prob-Oferta%203x2.pdf) | [R_17.cpp](Examenes_y_Repaso/R.17%20Oferta%203x2/R_17.cpp) | — | — |
+| R.18 | Ovejas negras | [PDF](Examenes_y_Repaso/R.18%20Ovejas%20negras/prob-Ovejas%20negras.pdf) | [R_18.cpp](Examenes_y_Repaso/R.18%20Ovejas%20negras/R_18.cpp) | — | — |
+| R.19 | ¡Que acabe pronto! | [PDF](Examenes_y_Repaso/R.19%20Que%20acabe%20pronto/prob-%C2%A1Que%20acabe%20pronto!.pdf) | [R_19.cpp](Examenes_y_Repaso/R.19%20Que%20acabe%20pronto/R_19.cpp) | — | — |
+| R.20 | Oposiciones a notaría | [PDF](Examenes_y_Repaso/R.20%20Oposiciones%20a%20notaria/prob-Oposiciones%20a%20notar%C3%ADa.pdf) | [R_20.cpp](Examenes_y_Repaso/R.20%20Oposiciones%20a%20notaria/R_20.cpp) | — | — |
+
 
 
 
