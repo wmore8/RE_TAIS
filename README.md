@@ -190,6 +190,28 @@ RE_TAIS/
 | C.3 | Mejor no llevar muchas monedas | [PDF](12_Programacion_Dinamica_III/C.3%20Mejor%20no%20llevar%20muchas%20monedas/prob-Mejor%20no%20llevar%20muchas%20monedas.pdf) | [C_3.cpp](12_Programacion_Dinamica_III/C.3%20Mejor%20no%20llevar%20muchas%20monedas/C_3.cpp) | $O(N \times P)$ | `CORRECT` |
 | C.4 | Volando entre pivotes | [PDF](12_Programacion_Dinamica_III/C.4%20Volando%20entre%20pivotes/prob-Volando%20entre%20pivotes.pdf) | [C_4.cpp](12_Programacion_Dinamica_III/C.4%20Volando%20entre%20pivotes/C_4.cpp) | $O(N^2)$ | `CORRECT` |
 
+### Exámenes y Repaso
+
+| Nº | Ejercicio | Enunciado | Solución | Complejidad | Estado |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| EN.1 | El puesto de fruta (El frutero exitoso) *(Ordinaria 2026)* | [PDF](Examenes_y_Repaso/EN1%20El%20puesto%20de%20fruta/prob-El%20frutero%20exitoso.pdf) | [main1.cpp](Examenes_y_Repaso/EN1%20El%20puesto%20de%20fruta/main1.cpp) | $O(N \log K)$ | `CORRECT` |
+| R.01 | Las minas del emperador Trajano | [PDF](Examenes_y_Repaso/R.01%20Las%20minas%20del%20emperador%20Trajano/prob-Las%20minas%20del%20emperador%20Trajano.pdf) | [R_1.cpp](Examenes_y_Repaso/R.01%20Las%20minas%20del%20emperador%20Trajano/R_1.cpp) | $O(A \log V)$ | `CORRECT` |
+| R.02 | Paintball | [PDF](Examenes_y_Repaso/R.02%20Paintball/prob-Paintball.pdf) | [R_2.cpp](Examenes_y_Repaso/R.02%20Paintball/R_2.cpp) | $O(V + A)$ | `CORRECT` |
+| R.03 | Bollos preñaos | [PDF](Examenes_y_Repaso/R.03%20Bollos%20prenaos/prob-Bollos%20Pre%C3%B1aos.pdf) | [R_3.cpp](Examenes_y_Repaso/R.03%20Bollos%20prenaos/R_3.cpp) | $O(N \times M)$ | `CORRECT` |
+| R.04 | Conectando pueblos | [PDF](Examenes_y_Repaso/R.04%20Conectando%20pueblos/prob-Conectando%20pueblos.pdf) | [R_4.cpp](Examenes_y_Repaso/R.04%20Conectando%20pueblos/R_4.cpp) | $O(A \log A)$ | `CORRECT` |
+| R.05 | Tirando el dado | [PDF](Examenes_y_Repaso/R.05%20Tirando%20el%20dado/prob-Tirando%20los%20dados.pdf) | [R_5.cpp](Examenes_y_Repaso/R.05%20Tirando%20el%20dado/R_5.cpp) | $O(K \times S)$ | `CORRECT` |
+| R.06 | Difundiendo un rumor | [PDF](Examenes_y_Repaso/R.06%20Difundiendo%20un%20rumor/prob-Difundiendo%20un%20rumor.pdf) | [R_6.cpp](Examenes_y_Repaso/R.06%20Difundiendo%20un%20rumor/R_6.cpp) | $O(V + A)$ | `CORRECT` |
+| R.07 | Abajo o a la derecha | [PDF](Examenes_y_Repaso/R.07%20Abajo%20o%20a%20la%20derecha/prob-Abajo%20o%20a%20la%20derecha.pdf) | [R_7.cpp](Examenes_y_Repaso/R.07%20Abajo%20o%20a%20la%20derecha/R_7.cpp) | $O(N \times M)$ | `CORRECT` |
+| R.08 | Semana de la Informática | [PDF](Examenes_y_Repaso/R.08%20Semana%20de%20la%20Informatica/prob-Semana%20de%20la%20Inform%C3%A1tica.pdf) | [R_8.cpp](Examenes_y_Repaso/R.08%20Semana%20de%20la%20Informatica/R_8.cpp) | $O(N \log N)$ | `CORRECT` |
+| R.09 | Pavimentar Barro City | [PDF](Examenes_y_Repaso/R.09%20Pavimentar%20Barro%20City/prob-Pavimentar%20Barro%20City.pdf) | [R_9.cpp](Examenes_y_Repaso/R.09%20Pavimentar%20Barro%20City/R_9.cpp) | $O(A \log A)$ | `CORRECT` |
+| R.10 | Las gorras de la competición | [PDF](Examenes_y_Repaso/R.10%20Las%20gorras%20de%20la%20competicion/prob-Las%20gorras%20de%20la%20competici%C3%B3n.pdf) | [R_10.cpp](Examenes_y_Repaso/R.10%20Las%20gorras%20de%20la%20competicion/R_10.cpp) | $O(N \log N)$ | `CORRECT` |
+| R.11 | Bases en Marte | [PDF](Examenes_y_Repaso/R.11%20Bases%20en%20Marte/prob-Bases%20en%20Marte.pdf) | [R_11.cpp](Examenes_y_Repaso/R.11%20Bases%20en%20Marte/R_11.cpp) | $O(N \log N)$ | `CORRECT` |
+| R.12 | De aventura por el Amazonas | [PDF](Examenes_y_Repaso/R.12%20De%20aventura%20por%20el%20Amazonas/prob-De%20aventura%20por%20el%20Amazonas.pdf) | [R_12.cpp](Examenes_y_Repaso/R.12%20De%20aventura%20por%20el%20Amazonas/R_12.cpp) | $O(N^3)$ | `CORRECT` |
+| R.13 | Inserción de paréntesis | [PDF](Examenes_y_Repaso/R.13%20Insercion%20de%20parentesis/prob-Inserci%C3%B3n%20de%20par%C3%A9ntesis.pdf) | [R_13.cpp](Examenes_y_Repaso/R.13%20Insercion%20de%20parentesis/R_13.cpp) | $O(N^3)$ | `CORRECT` |
+| R.14 | El turrón a la puerta | [PDF](Examenes_y_Repaso/R.14%20El%20turron%20a%20la%20puerta/prob-El%20turr%C3%B3n%20a%20la%20puerta.pdf) | [R_14.cpp](Examenes_y_Repaso/R.14%20El%20turron%20a%20la%20puerta/R_14.cpp) | $O(N^2)$ | `CORRECT` |
+| R.16 | Bizcocho con frutas | [PDF](Examenes_y_Repaso/R.16%20Bizcocho%20con%20frutas/prob-Bizcocho%20con%20frutas.pdf) | [R_16.cpp](Examenes_y_Repaso/R.16%20Bizcocho%20con%20frutas/R_16.cpp) | $O(N^2)$ | `CORRECT` |
+
+
 
 
 
