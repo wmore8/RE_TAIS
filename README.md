@@ -69,4 +69,31 @@ RE_TAIS/
 
 ## Tabla de Seguimiento de Ejercicios
 
-*(Las tablas detalladas por tema se completarán a medida que se migren los ejercicios).*
+### Tema 1: Árboles de búsqueda avanzados (AVL)
+
+| Nº | Ejercicio | Enunciado | Solución | Complejidad | Estado |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1.1 | ¿Es un árbol AVL? | [PDF](1_Arboles_AVL/1.1%20Es%20un%20arbol%20AVL/prob-%C2%BFEs%20un%20%C3%A1rbol%20AVL_.pdf) | [1_1.cpp](1_Arboles_AVL/1.1%20Es%20un%20arbol%20AVL/1_1.cpp) | $O(N)$ | `CORRECT` |
+| 1.2 | k-ésimo elemento en AVL | [PDF](1_Arboles_AVL/1.2%20k-esimo%20elemento%20en%20AVL/prob-k-esimo%20elemento%20en%20AVL.pdf) | [1_2.cpp](1_Arboles_AVL/1.2%20k-esimo%20elemento%20en%20AVL/1_2.cpp) | $O(\log N)$ | `CORRECT` |
+
+### Tema 2: Colas de prioridad y montículos
+
+| Nº | Ejercicio | Enunciado | Solución | Complejidad | Estado |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 2.1 | Lo que cuesta sumar | [PDF](2_Colas_Prioridad_Monticulos/2.1%20Lo%20que%20cuesta%20sumar/prob-Lo%20que%20cuesta%20sumar.pdf) | [2_1.cpp](2_Colas_Prioridad_Monticulos/2.1%20Lo%20que%20cuesta%20sumar/2_1.cpp) | $O(N \log N)$ | `CORRECT` |
+| 2.2 | Unidad Curiosa de Monitorización | [PDF](2_Colas_Prioridad_Monticulos/2.2%20Unidad%20Curiosa%20de%20Monitorizacion/prob-Unidad%20Curiosa%20de%20Monitorizaci%C3%B3n.pdf) | [2_2.cpp](2_Colas_Prioridad_Monticulos/2.2%20Unidad%20Curiosa%20de%20Monitorizacion/2_2.cpp) | $O(N \log N)$ | `CORRECT` |
+| 2.3 | Reina del súper | [PDF](2_Colas_Prioridad_Monticulos/2.3%20Reina%20del%20super/prob-Reina%20del%20s%C3%BAper.pdf) | [2_3.cpp](2_Colas_Prioridad_Monticulos/2.3%20Reina%20del%20super/2_3.cpp) | $O(M \log N)$ | `CORRECT` |
+| 2.4 | Ordenando a los pacientes en urgencias | — | [2_4.cpp](2_Colas_Prioridad_Monticulos/2.4%20Ordenando%20a%20los%20pacientes%20en%20urgencias/2_4.cpp) | $O(N \log N)$ | `CORRECT` |
+| 2.5 | Coleccionando cómics | [PDF](2_Colas_Prioridad_Monticulos/2.5%20Coleccionando%20comics/prob-Coleccionando%20c%C3%B3mics.pdf) | [2_5.cpp](2_Colas_Prioridad_Monticulos/2.5%20Coleccionando%20comics/2_5.cpp) | $O(M \log N)$ | `CORRECT` |
+| 2.L | Las partituras de la orquesta *(Laboratorio)* | — | [2_L.cpp](2_Colas_Prioridad_Monticulos/2.L%20Las%20partituras%20de%20la%20orquesta/2_L.cpp) | $O((P - N) \log N)$ | `CORRECT` |
+
+### Tema 3: Heapsort y colas de prioridad con prioridades variables (IndexPQ)
+
+| Nº | Ejercicio | Enunciado | Solución | Complejidad | Estado |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 3.1 | Pájaros en vuelo | [PDF](3_Colas_Prioridad_Variables/3.1%20Pajaros%20en%20vuelo/prob-P%C3%A1jaros%20en%20vuelo.pdf) | [3_1.cpp](3_Colas_Prioridad_Variables/3.1%20Pajaros%20en%20vuelo/3_1.cpp) | $O(N \log N)$ | `CORRECT` |
+| 3.2 | 12 points go to… | [PDF](3_Colas_Prioridad_Variables/3.2%2012%20points%20go%20to/prob-12%20points%20go%20to%E2%80%A6.pdf) | [3_2.cpp](3_Colas_Prioridad_Variables/3.2%2012%20points%20go%20to/3_2.cpp) | $O(E \log P)$ | `CORRECT` |
+| 3.3 | Multitarea | [PDF](3_Colas_Prioridad_Variables/3.3%20Multitarea/prob-Multitarea.pdf) | [3_3.cpp](3_Colas_Prioridad_Variables/3.3%20Multitarea/3_3.cpp) | $O(N \log K)$ | `CORRECT` |
+| 3.4 | Volando drones | [PDF](3_Colas_Prioridad_Variables/3.4%20Volando%20drones/prob-Volando%20drones.pdf) | [3_4.cpp](3_Colas_Prioridad_Variables/3.4%20Volando%20drones/3_4.cpp) | $O(N \log M)$ | `CORRECT` |
+| 3.L | La batalla de las audiencias *(Laboratorio)* | — | [3_L.cpp](3_Colas_Prioridad_Variables/3.L%20La%20batalla%20de%20las%20audiencias/3_L.cpp) | $O(N \log C)$ | `CORRECT` |
+
