@@ -163,5 +163,33 @@ RE_TAIS/
 | 9.4 | El telesilla | [PDF](9_Algoritmos_Voraces_II/9.4%20El%20telesilla/prob-Telesillas.pdf) | [9_4.cpp](9_Algoritmos_Voraces_II/9.4%20El%20telesilla/9_4.cpp) | $O(N \log N)$ | `CORRECT` |
 | 9.L | Necesitamos agua *(Laboratorio)* | [PDF](9_Algoritmos_Voraces_II/9.L%20Necesitamos%20agua/prob-Necesitamos%20agua.pdf) | [9_L.cpp](9_Algoritmos_Voraces_II/9.L%20Necesitamos%20agua/9_L.cpp) | $O(A \log V)$ | `CORRECT` |
 
+### Tema 10: Programación Dinámica I
+
+| Nº | Ejercicio | Enunciado | Solución | Complejidad | Estado |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| A.2 | Construyendo dianas | [PDF](10_Programacion_Dinamica_I/A.2%20Construyendo%20dianas/prob-Construyendo%20dianas.pdf) | [A_2.cpp](10_Programacion_Dinamica_I/A.2%20Construyendo%20dianas/A_2.cpp) | $O(D \times P)$ | `CORRECT` |
+| A.3 | Esquivando las obras en los cruces | [PDF](10_Programacion_Dinamica_I/A.3%20Esquivando%20las%20obras%20en%20los%20cruces/prob-Esquivando%20las%20obras%20en%20los%20cruces.pdf) | [A_3.cpp](10_Programacion_Dinamica_I/A.3%20Esquivando%20las%20obras%20en%20los%20cruces/A_3.cpp) | $O(N \times M)$ | `CORRECT` |
+| A.4 | ¿Por dónde hay que subir? | [PDF](10_Programacion_Dinamica_I/A.4%20Por%20donde%20hay%20que%20subir/prob-%C2%BFPor%20d%C3%B3nde%20hay%20que%20subir_.pdf) | [A_4.cpp](10_Programacion_Dinamica_I/A.4%20Por%20donde%20hay%20que%20subir/A_4.cpp) | $O(N^2)$ | `WRONG ANSWER` |
+
+### Tema 11: Programación Dinámica II
+
+| Nº | Ejercicio | Enunciado | Solución | Complejidad | Estado |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| B.1 | El cazatesoros | [PDF](11_Programacion_Dinamica_II/B.1%20El%20cazatesoros/prob-El%20cazatesoros.pdf) | [B_1.cpp](11_Programacion_Dinamica_II/B.1%20El%20cazatesoros/B_1.cpp) | $O(N \times T)$ | `CORRECT` |
+| B.2 | Aibofobia | [PDF](11_Programacion_Dinamica_II/B.2%20Aibofobia/prob-Aibofobia.pdf) | [B_2.cpp](11_Programacion_Dinamica_II/B.2%20Aibofobia/B_2.cpp) | $O(N^2)$ | `WRONG ANSWER` |
+| B.3 | Nos vamos de concierto | [PDF](11_Programacion_Dinamica_II/B.3%20Nos%20vamos%20de%20concierto/prob-Nos%20vamos%20de%20concierto.pdf) | [B_3.cpp](11_Programacion_Dinamica_II/B.3%20Nos%20vamos%20de%20concierto/B_3.cpp) | $O(N \times P)$ | `CORRECT` |
+| B.4 | Las vacas pensantes | [PDF](11_Programacion_Dinamica_II/B.4%20Las%20vacas%20pensantes/prob-Las%20vacas%20pensantes.pdf) | [B_4.cpp](11_Programacion_Dinamica_II/B.4%20Las%20vacas%20pensantes/B_4.cpp) | $O(N^2)$ | `CORRECT` |
+| B.L | La fiesta de graduación *(Laboratorio)* | [PDF](11_Programacion_Dinamica_II/B.L%20La%20fiesta%20de%20graduacion/prob-La%20fiesta%20de%20graduaci%C3%B3n.pdf) | [B_L.cpp](11_Programacion_Dinamica_II/B.L%20La%20fiesta%20de%20graduacion/B_L.cpp) | $O(N \times M)$ | `CORRECT` |
+
+### Tema 12: Programación Dinámica III
+
+| Nº | Ejercicio | Enunciado | Solución | Complejidad | Estado |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| C.1 | El carpintero Ebanisto | [PDF](12_Programacion_Dinamica_III/C.1%20El%20carpintero%20Ebanisto/prob-El%20carpintero%20Ebanisto.pdf) | [C_1.cpp](12_Programacion_Dinamica_III/C.1%20El%20carpintero%20Ebanisto/C_1.cpp) | $O(N^3)$ | `CORRECT` |
+| C.2 | Cine romántico a raudales | [PDF](12_Programacion_Dinamica_III/C.2%20Cine%20romantico%20a%20raudales/prob-Cine%20rom%C3%A1ntico%20a%20raudales.pdf) | [C_2.cpp](12_Programacion_Dinamica_III/C.2%20Cine%20romantico%20a%20raudales/C_2.cpp) | $O(N \log N)$ | `CORRECT` |
+| C.3 | Mejor no llevar muchas monedas | [PDF](12_Programacion_Dinamica_III/C.3%20Mejor%20no%20llevar%20muchas%20monedas/prob-Mejor%20no%20llevar%20muchas%20monedas.pdf) | [C_3.cpp](12_Programacion_Dinamica_III/C.3%20Mejor%20no%20llevar%20muchas%20monedas/C_3.cpp) | $O(N \times P)$ | `CORRECT` |
+| C.4 | Volando entre pivotes | [PDF](12_Programacion_Dinamica_III/C.4%20Volando%20entre%20pivotes/prob-Volando%20entre%20pivotes.pdf) | [C_4.cpp](12_Programacion_Dinamica_III/C.4%20Volando%20entre%20pivotes/C_4.cpp) | $O(N^2)$ | `CORRECT` |
+
+
 
 
