@@ -143,4 +143,25 @@ RE_TAIS/
 | 7.5 | ¿Cuál es el mejor camino? | [PDF](7_Caminos_Minimos_Dijkstra/7.5%20Cual%20es%20el%20mejor%20camino/prob-%C2%BFCu%C3%A1l%20es%20el%20mejor%20camino_.pdf) | [7_5.cpp](7_Caminos_Minimos_Dijkstra/7.5%20Cual%20es%20el%20mejor%20camino/7_5.cpp) | $O(A \log V)$ | `CORRECT` |
 | 7.L | La conferencia de paz *(Laboratorio)* | [PDF](7_Caminos_Minimos_Dijkstra/7.L%20La%20conferencia%20de%20paz/enunciado.pdf) | [7_L.cpp](7_Caminos_Minimos_Dijkstra/7.L%20La%20conferencia%20de%20paz/7_L.cpp) | $O(A \log V)$ | `CORRECT` |
 
+### Tema 8: Algoritmos Voraces I
+
+| Nº | Ejercicio | Enunciado | Solución | Complejidad | Estado |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 8.1 | Agujeros en la manguera | [PDF](8_Algoritmos_Voraces_I/8.1%20Agujeros%20en%20la%20manguera/prob-Agujeros%20en%20la%20manguera.pdf) | [8_1.cpp](8_Algoritmos_Voraces_I/8.1%20Agujeros%20en%20la%20manguera/8_1.cpp) | $O(N)$ | `CORRECT` |
+| 8.2 | ¡Nos invaden! | [PDF](8_Algoritmos_Voraces_I/8.2%20Nos%20invaden/prob-%C2%A1Nos%20invaden!.pdf) | [8_2.cpp](8_Algoritmos_Voraces_I/8.2%20Nos%20invaden/8_2.cpp) | $O(N \log N)$ | `CORRECT` |
+| 8.3 | Comienza la temporada | [PDF](8_Algoritmos_Voraces_I/8.3%20Comienza%20la%20temporada/prob-Comienza%20la%20temporada.pdf) | [8_3.cpp](8_Algoritmos_Voraces_I/8.3%20Comienza%20la%20temporada/8_3.cpp) | $O(N \log N)$ | `CORRECT` |
+| 8.4 | Maratón de cine de terror | [PDF](8_Algoritmos_Voraces_I/8.4%20Maraton%20de%20cine%20de%20terror/prob-Marat%C3%B3n%20de%20cine%20de%20terror.pdf) | [8_4.cpp](8_Algoritmos_Voraces_I/8.4%20Maraton%20de%20cine%20de%20terror/8_4.cpp) | $O(N \log N)$ | `CORRECT` |
+| 8.L | Planificación de conferencias *(Laboratorio)* | [PDF](8_Algoritmos_Voraces_I/8.L%20Planificacion%20de%20conferencias/prob-Planificaci%C3%B3n%20de%20conferencias.pdf) | [8_L.cpp](8_Algoritmos_Voraces_I/8.L%20Planificacion%20de%20conferencias/8_L.cpp) | $O(N \log N)$ | `CORRECT` |
+
+### Tema 9: Algoritmos Voraces II
+
+| Nº | Ejercicio | Enunciado | Solución | Complejidad | Estado |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 9.1 | ¡En primera línea de playa! | [PDF](9_Algoritmos_Voraces_II/9.1%20En%20primera%20linea%20de%20playa/prob-%C2%A1En%20primera%20l%C3%ADnea%20de%20playa!.pdf) | [9_1.cpp](9_Algoritmos_Voraces_II/9.1%20En%20primera%20linea%20de%20playa/9_1.cpp) | $O(N \log N)$ | `WRONG ANSWER` |
+| 9.2 | El alienígena infiltrado | [PDF](9_Algoritmos_Voraces_II/9.2%20El%20alienigena%20infiltrado/prob-El%20alien%C3%ADgena%20infiltrado.pdf) | [9_2.cpp](9_Algoritmos_Voraces_II/9.2%20El%20alienigena%20infiltrado/9_2.cpp) | $O(N \log N)$ | `CORRECT` |
+| 9.3 | Carreras de coches | [PDF](9_Algoritmos_Voraces_II/9.3%20Carreras%20de%20coches/prob-Carreras%20de%20coches.pdf) | [9_3.cpp](9_Algoritmos_Voraces_II/9.3%20Carreras%20de%20coches/9_3.cpp) | $O(N \log N)$ | `CORRECT` |
+| 9.4 | El telesilla | [PDF](9_Algoritmos_Voraces_II/9.4%20El%20telesilla/prob-Telesillas.pdf) | [9_4.cpp](9_Algoritmos_Voraces_II/9.4%20El%20telesilla/9_4.cpp) | $O(N \log N)$ | `CORRECT` |
+| 9.L | Necesitamos agua *(Laboratorio)* | [PDF](9_Algoritmos_Voraces_II/9.L%20Necesitamos%20agua/prob-Necesitamos%20agua.pdf) | [9_L.cpp](9_Algoritmos_Voraces_II/9.L%20Necesitamos%20agua/9_L.cpp) | $O(A \log V)$ | `CORRECT` |
+
+
 
